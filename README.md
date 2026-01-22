@@ -8,12 +8,16 @@ Download and extract
 [noise](https://drive.google.com/file/d/1tY6qkLSTz3cdOnYRuBxwIM5vj-w4yTuH/view?usp=drive_link)
 
 `python prep_data.py`  
-`python train.py`
-`python export.py` 
+
+`python train.py`  
+
+`python export.py`  
+
 
 ## Acknowledgement
 This code is basically all the great work by [Rong Xiaobin](https://github.com/Xiaobin-Rong)  
 [GTCRN](https://github.com/Xiaobin-Rong/gtcrn)  
 https://github.com/Xiaobin-Rong/SEtrain  
 https://github.com/Xiaobin-Rong/TRT-SE
+
 
