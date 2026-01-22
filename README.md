@@ -13,11 +13,16 @@ Download and extract
 
 `python export.py`  
 
+## Note  
+
+Also to add TTS data of command sentences of Wakeword of use and simple random commands such as 'Octavia turn on the light, Octavia play some music, Octavia...'
+To be implemented.  
 
 ## Acknowledgement
 This code is basically all the great work by [Rong Xiaobin](https://github.com/Xiaobin-Rong)  
 [GTCRN](https://github.com/Xiaobin-Rong/gtcrn)  
 https://github.com/Xiaobin-Rong/SEtrain  
 https://github.com/Xiaobin-Rong/TRT-SE
+
 
 
