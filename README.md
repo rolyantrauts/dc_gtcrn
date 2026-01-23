@@ -17,12 +17,15 @@ Download and extract
 
 Also to add TTS data of command sentences of Wakeword of use and simple random commands such as 'Octavia turn on the light, Octavia play some music, Octavia...'
 To be implemented.  
+`python train-resume.py`  added full session save incase of training failure so you can resume and better validation logic  
+
 
 ## Acknowledgement
 This code is basically all the great work by [Rong Xiaobin](https://github.com/Xiaobin-Rong)  
 [GTCRN](https://github.com/Xiaobin-Rong/gtcrn)  
 https://github.com/Xiaobin-Rong/SEtrain  
 https://github.com/Xiaobin-Rong/TRT-SE
+
 
 
 
